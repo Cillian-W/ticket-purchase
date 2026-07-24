@@ -1,0 +1,15 @@
+{
+  "server_url": "http://127.0.0.1:4723",
+  "keyword": "徐良",
+  "users": [
+    "王昱洲",
+    "于汶灵",
+    "时健",
+    "胡缘"
+  ],
+  "city": "西安",
+  "date": "08.29",
+  "price": "380",
+  "price_index": 0,
+  "if_commit_order": true
+}

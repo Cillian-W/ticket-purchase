@@ -1,13 +1,16 @@
 {
   "server_url": "http://127.0.0.1:4723",
-  "keyword": "周深",
+  "keyword": "周华健",
   "users": [
-    "王胜",
-    "潘鸿运"
+    "王昱洲",
+    "于汶灵",
+    "时健",
+    "胡缘"
   ],
-  "city": "深圳",
-  "date": "12.06",
-  "price": "内场1199元",
-  "price_index": 5,
-  "if_commit_order": true
+  "city": "烟台",
+  "date": "08.01",
+  "price": "788",
+  "price_index": 1,
+  "if_commit_order": false,
+  "debug": true
 }
